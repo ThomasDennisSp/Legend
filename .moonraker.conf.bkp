@@ -4,7 +4,7 @@ port = 7125
 klippy_uds_address = /home/orangepi/printer_data/comms/klippy.sock
 
 [file_manager]
-enable_object_processing = true
+enable_object_processing = True
 
 [authorization]
 trusted_clients = 
